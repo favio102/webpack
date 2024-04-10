@@ -20,17 +20,8 @@ module.exports = {
         use: ["html-loader"],
       },
       {
-        test: /\.(svg|png|jpe?g|gif)$/i,
-        use: [
-          {
-            loader: "file-loader",
-            options: {
-              name: "[name].[hash].[ext]",
-              outputPath: "imgs",
-              esModule: false,
-            },
-          },
-        ],
+        test: /\.(svg|png|jpg|gif)$/,
+        type: "asset/resource",
       },
     ],
   },
