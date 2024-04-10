@@ -2,3 +2,7 @@
 node_modules
 dist
 package-lock.json
+# course source
+# https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8
+# code source
+# https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2Q5YnhvTWRWc25PQ1k4TW1jMXR2RUszNlYwQXxBQ3Jtc0ttbzlMTkk3cGpkWTBVTFlpREpyNmIwQWFyWHZHSEMzYm9LYjZndEFUVXo5dlBnTVN1amVzbEp1OGNwaXdFUUppaXZiaGJkOUdjRkktbXBxNHowSXFOWkYzcm5SOWZHOE5xWnVpclROSlRHcjZ3d3lObw&q=https%3A%2F%2Fgithub.com%2FColt%2Fwebpack-demo-app&v=JlBDfj75T3Y
